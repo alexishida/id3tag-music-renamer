@@ -14,9 +14,10 @@ Example:
 	
 	
 
-Screenshoot
+Screenshot
 ====================	
-(http://i59.tinypic.com/30cr8jr.jpg)
+![Alt text](http://i59.tinypic.com/30cr8jr.jpg)
+
 	
 	
 Coming soon
