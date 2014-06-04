@@ -1,4 +1,4 @@
-id3tag-music-renamer
+Id3 Tag Music Renamer
 ====================
 
 Application that renames the music (ID3Tag) from the file name. 
@@ -11,7 +11,15 @@ Example:
 	
 	Music: Wake Me Up
 
+	
+	
+
+Screenshoot
+====================	
+(http://i59.tinypic.com/30cr8jr.jpg)
+	
+	
 Coming soon
 ====================
 
-Get a picture album from Last.fm api
+Get a music album picture from Last.fm api
