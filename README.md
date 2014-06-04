@@ -5,14 +5,18 @@ Application that renames the music (ID3Tag) from the file name.
 
 Example:
 
-	File name: Avicii - Wake Me Up.mp3
+	Filename: Avicii - Wake Me Up.mp3
 	
 	Artist: Avicii
 	
 	Music: Wake Me Up
 
-	
-	
+
+Third Party Libraries	
+====================	
+* commons-httpclient-2.0.2
+* JID3
+* json-20090211
 
 Screenshot
 ====================	
